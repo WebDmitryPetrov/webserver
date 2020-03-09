@@ -11,5 +11,18 @@
     "express": "~4.16.1",
     "morgan": "~1.9.1",
     "rfc6902": "^3.0.4"
-  }
+  },
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebDmitryPetrov/webserver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebDmitryPetrov/webserver/issues"
+  },
+  "homepage": "https://github.com/WebDmitryPetrov/webserver#readme",
+  "description": ""
 }
